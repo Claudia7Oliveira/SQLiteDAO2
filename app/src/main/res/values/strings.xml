@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">APP</string>
+    <string name="btnCad">Cadastrar</string>
+    <string name="btnList">Listar</string>
+
+    <string name="btnPesq">Pesquisar CPF</string>
+    <string name="editName">Nome :</string>
+    <string name="editCPF">CPF :</string>
+    <string name="editIdade">Idade :</string>
+    <string name="editData">Data nascimento:</string>
+    <string name="editFone">Fone :</string>
+    <string name="editEmail">E-mail :</string>
+    <string name="btnSave">Salvar</string>
+    <string name="btnVoltar">Voltar</string>
+
+    <string name="textName">Nome :</string>
+    <string name="textCPF">CPF :</string>
+    <string name="textIdade">Idade :</string>
+    <string name="textNasc">Nascimento :</string>
+    <string name="textFone">Telefone :</string>
+    <string name="textEmail">Email :</string>
+</resources>
